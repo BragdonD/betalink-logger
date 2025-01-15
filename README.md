@@ -17,7 +17,7 @@
 ## Installation
 
 ```shell
-go get github.com/yourusername/betalinklogger
+go get github.com/BragdonD/betalink-logger
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ package main
 import (
 	"os"
 
-	"github.com/yourusername/betalinklogger"
+	"github.com/BragdonD/betalink-logger"
 )
 
 func main() {
